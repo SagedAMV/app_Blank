@@ -32,3 +32,4 @@ ios/Pods/
 # System
 .DS_Store
 Thumbs.db
+push.sh
